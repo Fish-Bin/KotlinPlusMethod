@@ -1,6 +1,6 @@
 # KotlinPlusMethod
-  版本信息说明,见：[version.md](https://github.com/Fish-Bin/KotlinPlusMethod/blob/master/version.md)  
-  利用kotlin的灵活性,封装一些常用的拓展方法,便于使用,后续会根据需要不断增加此方法库  
+  库描述：利用kotlin的灵活性,封装一些常用的拓展方法,便于使用,后续会根据需要不断增加此方法库  
+  版本信息说明见：[version.md](https://github.com/Fish-Bin/KotlinPlusMethod/blob/master/version.md)    
 # 一、引入依赖
   在项目build.gradle中添加依赖：
   ```
