@@ -6,6 +6,7 @@
   ```
   compile 'com.fish.bin:kotlin-plus-method:1.0.0'
  ```
+ 最后的版本参见：[lastVersion](https://bintray.com/beta/#/fish/hui/kotlin-plus-method?tab=overview)
 # 二、拓展方法介绍
 ## 1.想注释一段代码？
   ```
